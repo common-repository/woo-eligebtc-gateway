@@ -1,0 +1,13 @@
+.woocommerce-billing-fields .ebec-bypass.hidden {
+	display: none !important;
+}
+
+.payment_method_ebec_eligebtc img {
+	max-height: 68px !important;
+}
+
+.wc-gateway-ebec-cancel {
+	display: block;
+	text-align: center;
+	padding: 10px;
+}

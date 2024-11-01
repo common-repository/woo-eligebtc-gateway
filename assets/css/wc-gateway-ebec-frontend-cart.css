@@ -1,0 +1,30 @@
+.wcebec-checkout-buttons {
+	text-align: center;
+	margin: 1em 0;
+	overflow: hidden;
+}
+.wcebec-checkout-buttons__separator {
+	display: block;
+	opacity: .5;
+	margin: 0 0 1em;
+}
+.wcebec-checkout-buttons__button {
+	display: block;
+	text-decoration: none !important;
+	border: 0 !important;
+	padding-top: 1em;
+}
+.wcebec-checkout-buttons__button img {
+	margin: 0 auto;
+}
+.eligebtc-button-widget .eligebtc-button,
+.eligebtc-button-widget .eligebtc-button:hover {
+	background: transparent;
+	box-shadow: none;
+	border: none;
+}
+.wcebec-cart-widget-button {
+	display: inline-block;
+	text-decoration: none !important;
+	border: 0 !important;
+}
